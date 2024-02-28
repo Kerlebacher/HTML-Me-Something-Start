@@ -4,13 +4,23 @@ body {
     padding: 20px;
     margin: 8px;
     display: block;
+    border-style: dotted;
+    background-color: aqua;
+}
+article {
+    background-color: floralwhite;
 }
 .funParagraph {
     font-family: 'Arial', sans-serif;
     font-size: small;
-    font-style: blue;
+    text-decoration: rgb(167, 167, 233);
+    text-align: center;
 }
 #mainHeading {
-    font-size: 9pt;
+    font-size: 37pt;
     text-decoration: italic;
+    text-decoration: rgb(167, 167, 233);
+    text-align: center;
+    background-color: floralwhite;
+
 }
