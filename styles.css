@@ -1,1 +1,13 @@
-/* Write your CSS here! */
+body {
+    font-family: 'Lucida Sans', sans-serif;
+    font-size: 12pt;
+}
+.figureCap {
+    font-family: 'Arial', sans-serif;
+    font-size: small;
+    font-style: blue;
+}
+#author-bio {
+    font-size: 9pt;
+    text-decoration: italic;
+}
