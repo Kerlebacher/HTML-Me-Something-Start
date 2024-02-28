@@ -2,7 +2,8 @@ body {
     font-family: 'Lucida Sans', sans-serif;
     font-size: 12pt;
     padding: 20px;
-    margin: 20px;
+    margin: 8px;
+    display: block;
 }
 .figureCap {
     font-family: 'Arial', sans-serif;
