@@ -5,12 +5,12 @@ body {
     margin: 8px;
     display: block;
 }
-.figureCap {
+.funParagraph {
     font-family: 'Arial', sans-serif;
     font-size: small;
     font-style: blue;
 }
-#author-bio {
+#mainHeading {
     font-size: 9pt;
     text-decoration: italic;
 }
