@@ -4,10 +4,8 @@ body, main, footer {
     padding: 20px;
     margin: 8px;
     display: block;
-    border-style: dotted;
-    background-color: aqua;
     align-items: center;
-    max-width: 1058px;
+    max-width: 1080px;
     width: 100%;
 }
 nav ul {
@@ -16,7 +14,7 @@ nav ul {
 }
 ul {
     display: block;
-    list-style-type: disc;
+    list-style-type: none;
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
@@ -24,19 +22,33 @@ ul {
     padding-inline-start: 40px;
 }
 article {
-    background-color: floralwhite;
+    display: block;
+    color: rgb(243, 167, 15);
+    font-size: 25pt;
+    padding: 10px;
+    border: dotted;
+    background-color: blanchedalmond;
 }
 .funParagraph {
     font-family: 'Arial', sans-serif;
     font-size: small;
-    text-decoration: rgb(167, 167, 233);
+    color: rgb(128, 26, 102);
+    background-color: beige;
     text-align: center;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+  }
 #mainHeading {
     font-size: 37pt;
     text-decoration: italic;
-    text-decoration: rgb(167, 167, 233);
+    color: rgb(50, 30, 238);
     text-align: center;
-    background-color: floralwhite;
+    background-color: rgb(243, 171, 26);
 
 }
