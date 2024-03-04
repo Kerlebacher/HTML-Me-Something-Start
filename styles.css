@@ -2,7 +2,7 @@ body, main, footer {
     font-family: 'Lucida Sans', sans-serif;
     font-size: 1.6em;
     padding: 20px;
-    margin: 8px;
+    margin: 2px;
     display: block;
     align-items: center;
     max-width: 1080px;
@@ -19,20 +19,20 @@ ul {
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding-inline-start: 40px;
+    padding-inline-start: 20px;
 }
 article {
     display: block;
     color: rgb(243, 167, 15);
     font-size: 25pt;
-    padding: 10px;
+    padding: 20px;
     border: dotted;
     background-color: blanchedalmond;
 }
 .funParagraph {
     font-family: 'Arial', sans-serif;
     font-size: small;
-    color: rgb(128, 26, 102);
+    color: green;
     background-color: beige;
     text-align: center;
 }
@@ -47,9 +47,10 @@ article {
 #mainHeading {
     font-size: 37pt;
     text-decoration: italic;
-    color: rgb(50, 30, 238);
+    color: red;
     text-align: center;
     background-color: rgb(243, 171, 26);
+    padding: 20px;
 
 }
 div.scroll-container {
