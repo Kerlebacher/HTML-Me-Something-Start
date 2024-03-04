@@ -52,3 +52,15 @@ article {
     background-color: rgb(243, 171, 26);
 
 }
+div.scroll-container {
+    background-color: #181818;
+    overflow: auto;
+    white-space: nowrap;
+    padding: 5px;
+    height: 500px
+  }
+  
+  div.scroll-container img {
+    padding: 5px;
+    height: 460px;
+      }
